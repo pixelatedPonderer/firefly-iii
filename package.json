@@ -7,6 +7,6 @@
         "resources/assets/v2"
     ],
     "devDependencies": {
-        "postcss": "^8.4.47"
+        "postcss": "^8.5.4"
     }
 }
